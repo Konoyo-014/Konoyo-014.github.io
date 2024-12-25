@@ -26,9 +26,6 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 
 # 🎖 Honors and Awards
