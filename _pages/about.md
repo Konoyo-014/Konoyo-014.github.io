@@ -23,9 +23,16 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Paper "TA-V2A: Textually Assisted Video-to-Audio Generation" accepted to ICASSP 2025!
+- *2025.03*: &nbsp;🎉🎉 Paper "Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array" accepted to the 158th Audio Engineering Society Convention proceedings!
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TA-V2A: Textually Assisted Video-to-Audio Generation](https://arxiv.org/pdf/2503.10700)
+
+**Yuhuan You**, Xihong Wu, Tianshu Qu
 
 
 # 🎖 Honors and Awards
