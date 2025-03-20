@@ -27,7 +27,7 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_Figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TA-V2A: Textually Assisted Video-to-Audio Generation](https://arxiv.org/pdf/2503.10700)
