@@ -27,6 +27,13 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES 2025</div><img src='images/AES-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array](https://aes2.org/publications/elibrary-page/?id=22912)
+
+**Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_Figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,12 +41,14 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 **Yuhuan You**, Xihong Wu, Tianshu Qu
 
-
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
+- *2020.09* Mingde Scholarship, Peking University
+- *2020.09* Freshman First Class Scholarship, Peking University
+- *2020.07* First Place in Hunan Province College Entrance Examination (Science)
 
 
 # 📖 Educations
