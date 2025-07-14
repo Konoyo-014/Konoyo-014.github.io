@@ -34,6 +34,9 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 **Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_Figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
