@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "You Yuhuan"
-description              : "First-year Master Student in Peking University."
+description              : "Second-year Master Student in Peking University."
 repository               : "Konoyo-014/Konoyo-014.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=32hFINYAAAAJ"
   email            : "you_yuhuan@stu.pku.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuhuan-You"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Konoyo-014"
   google_plus      :
   keybase          :
   instagram        :
