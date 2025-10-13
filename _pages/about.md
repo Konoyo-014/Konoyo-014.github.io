@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-My research interest includes computational acoustic scene analysis and audio generation. 
+My research interest includes spatial audio, acoustic scene analysis and audio generation.
 
 
 # 🔥 News
@@ -49,13 +48,14 @@ My research interest includes computational acoustic scene analysis and audio ge
 
 
 # 🎖 Honors and Awards
+- *2025.09* Graduate Special Academic Scholarship, Peking University
 - *2020.09* Mingde Scholarship, Peking University
 - *2020.09* Freshman First Class Scholarship, Peking University
 - *2020.07* First Place in Hunan Province College Entrance Examination (Science)
 
 
 # 📖 Educations
-- *2024.09 - 2025.04 (now)*, pursuing a master's degree in the School of Intelligence at Peking University, with a research focus on hearing, speech, and music.
+- *2024.09 - 2025.10 (now)*, pursuing a master's degree in the School of Intelligence at Peking University, with a research focus on hearing, speech, and music.
 - *2020.09 - 2024.07*, graduated summa cum laude from Yuanpei College, Peking University with a Bachelor's degree in Intelligent Science and Technology, and obtained an honorary degree as a member of the Turing Class.
 
 
