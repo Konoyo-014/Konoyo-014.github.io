@@ -20,13 +20,16 @@ redirect_from:
 My research interest includes spatial audio, auditory scene analysis and audio (including speech & music) generation.
 
 
+# 🔬 Research Focus
+
+
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Paper "SHB-AE: Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array" accepted to the 158th Audio Engineering Society Convention proceedings!
 - *2024.12*: &nbsp;🎉🎉 Paper "TA-V2A: Textually Assisted Video-to-Audio Generation" accepted to ICASSP 2025!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/WorldNotMono_cover.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models](https://arxiv.org/abs/2601.02954)
@@ -65,7 +68,7 @@ My research interest includes spatial audio, auditory scene analysis and audio (
 
 
 # 📖 Educations
-- *2024.09 - 2025.10 (now)*, pursuing a master's degree in the School of Intelligence at Peking University, with a research focus on hearing, speech, and music.
+- *2024.09 - 2027.07*, pursuing a master's degree in the School of Intelligence at Peking University, with a research focus on hearing, speech, and music.
 - *2020.09 - 2024.07*, graduated summa cum laude from Yuanpei College, Peking University with a Bachelor's degree in Intelligent Science and Technology, and obtained an honorary degree as a member of the Turing Class.
 
 
