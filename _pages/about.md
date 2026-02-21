@@ -22,6 +22,14 @@ My research interest includes spatial audio, auditory scene analysis and audio (
 
 # 🔬 Research Focus
 
+- **Comprehensive machine hearing from spatial audio and auditory neuroscience.** I aim to unify spatial audio modeling with principles from auditory neuroscience so that models can jointly understand what is sounding, where it is located, and how multiple sound events are organized over time.
+
+- **Human-centered audio evaluation as feedback for audio machine learning.** I develop richer perceptual evaluation dimensions and convert human judgments of naturalness, immersion, intelligibility, and affective consistency into actionable training feedback for audio models.
+
+- **Quantifying human-likeness in speech and singing generation to make art creation scientifically accessible.** I study speech generation and singing synthesis through measurable factors of perceived human-likeness, with the goal of deconstructing seemingly intangible artistic creativity into controllable, reproducible, and accessible scientific practice.
+
+My research is also grounded in practical experience in **vocal performance**, **voice acting**, and **virtual singer tuning**, which helps connect model objectives with real creative workflows.
+
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Paper "SHB-AE: Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array" accepted to the 158th Audio Engineering Society Convention proceedings!
