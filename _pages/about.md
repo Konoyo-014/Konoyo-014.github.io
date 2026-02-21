@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes spatial audio, acoustic scene analysis and audio generation.
+My research interest includes spatial audio, auditory scene analysis and audio (including speech & music) generation.
 
 
 # 🔥 News
@@ -25,6 +25,16 @@ My research interest includes spatial audio, acoustic scene analysis and audio g
 - *2024.12*: &nbsp;🎉🎉 Paper "TA-V2A: Textually Assisted Video-to-Audio Generation" accepted to ICASSP 2025!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models](https://arxiv.org/abs/2601.02954)
+
+**Yuhuan You**, Lai Wei, Xihong Wu, Tianshu Qu
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES 2025</div><img src='images/AES-500x300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,3 +70,4 @@ My research interest includes spatial audio, acoustic scene analysis and audio g
 
 
 # 💻 Internships
+- *2026.01 - now*, intern at Alibaba Tongyi Lab, Qwen-Omni Team.
