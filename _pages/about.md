@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My research interest includes spatial audio, auditory scene analysis and audio (including speech & music) generation.
+I am currently seeking Summer 2026 research internship opportunities and PhD opportunities starting in 2027.
 
 
 # 🔬 Research Focus
@@ -29,6 +30,7 @@ My research interest includes spatial audio, auditory scene analysis and audio (
 - **Quantifying human-likeness in speech and singing generation to make art creation scientifically accessible.** I study speech generation and singing synthesis through measurable factors of perceived human-likeness, with the goal of deconstructing seemingly intangible artistic creativity into controllable, reproducible, and accessible scientific practice.
 
 My research is also grounded in practical experience in **vocal performance**, **voice acting**, and **virtual singer tuning**, which helps connect model objectives with real creative workflows.
+If your interests align with these directions, I would be very glad to connect and explore potential collaboration.
 
 
 # 🔥 News
