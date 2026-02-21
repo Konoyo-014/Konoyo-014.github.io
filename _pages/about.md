@@ -36,25 +36,31 @@ My research interest includes spatial audio, auditory scene analysis and audio (
 
 **Yuhuan You**, Lai Wei, Xihong Wu, Tianshu Qu
 
+*This work formulates a hierarchical audio scene analysis pipeline that extends large audio-language models from mono recognition to spatial reasoning in complex acoustic scenes. It contributes a scalable FOA simulation pipeline, a spatial-aware model design with progressive training, and a dedicated benchmark that jointly evaluates perception, relational integration, and reasoning.*
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES 2025</div><img src='images/AES-500x300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES 2025</div><img src='images/SHBAE_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array](https://aes2.org/publications/elibrary-page/?id=22912)
 
 **Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
 
+*This paper proposes SHB-AE, a spherical-harmonic beamforming based Ambisonics encoding and upscaling pipeline tailored for sparse smartphone microphone arrays. The method improves practical spatial audio capture by recovering richer Ambisonics representations under strong device and array-geometry constraints.*
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_Figure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/TA-V2A_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TA-V2A: Textually Assisted Video-to-Audio Generation](https://arxiv.org/pdf/2503.10700)
 
 **Yuhuan You**, Xihong Wu, Tianshu Qu
+
+*TA-V2A introduces a textually assisted V2A framework that aligns video, audio, and language features through contrastive pretraining and latent feature mixing. It further improves controllability and semantic-temporal coherence by combining LLM-generated prompts, prompt refinement, and guided latent diffusion during inference.*
 
 </div>
 </div>
