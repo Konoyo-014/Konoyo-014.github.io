@@ -34,10 +34,23 @@ If your interests align with these directions, I would be very glad to connect a
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Paper "Spherical Harmonic Beamforming based Ambisonics Encoding Method in Frequency and Time Domain" accepted to the *Journal of the Audio Engineering Society*!
 - *2025.03*: &nbsp;🎉🎉 Paper "SHB-AE: Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array" accepted to the 158th Audio Engineering Society Convention proceedings!
 - *2024.12*: &nbsp;🎉🎉 Paper "TA-V2A: Textually Assisted Video-to-Audio Generation" accepted to ICASSP 2025!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAES 2026</div><img src='images/JAES_SHBAE_methods_comparison.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spherical Harmonic Beamforming based Ambisonics Encoding Method in Frequency and Time Domain](/files/JAES_SHBAE_After_Rebuttal3.pdf)
+
+**Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
+
+*This paper generalizes SHB-AE into a unified signal-independent framework that reformulates Ambisonics encoding as beamforming and develops both a frequency-domain design with high-frequency compensation and a broadband time-domain FIR design. Compared with the earlier AES proceedings paper, this JAES version moves beyond the initial upscaling demonstration to provide a clearer FD/TD methodological split and substantially more comprehensive objective and subjective robustness evaluations on a real smartphone array.*
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/WorldNotMono_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,7 +71,7 @@ If your interests align with these directions, I would be very glad to connect a
 
 **Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
 
-*This paper proposes SHB-AE, a spherical-harmonic beamforming based Ambisonics encoding and upscaling pipeline tailored for sparse smartphone microphone arrays. The method improves practical spatial audio capture by recovering richer Ambisonics representations under strong device and array-geometry constraints.*
+*This earlier AES proceedings paper introduced the core SHB-AE idea: using spherical-harmonic beamforming to enable Ambisonics encoding and order upscaling with a sparse, irregular smartphone microphone array. It established the feasibility of the approach under noisy and reverberant conditions, laying the foundation for the later JAES extension with unified frequency- and time-domain formulations and fuller evaluations.*
 
 </div>
 </div>
