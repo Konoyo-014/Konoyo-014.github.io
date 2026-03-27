@@ -34,11 +34,24 @@ If your interests align with these directions, I would be very glad to connect a
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Paper "FLOW-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching" accepted to AES Convention Europe 2026!
 - *2026.03*: &nbsp;🎉🎉 Paper "Spherical Harmonic Beamforming based Ambisonics Encoding Method in Frequency and Time Domain" accepted to the *Journal of the Audio Engineering Society*!
 - *2025.03*: &nbsp;🎉🎉 Paper "SHB-AE: Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array" accepted to the 158th Audio Engineering Society Convention proceedings!
 - *2024.12*: &nbsp;🎉🎉 Paper "TA-V2A: Textually Assisted Video-to-Audio Generation" accepted to ICASSP 2025!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES Europe 2026</div><img src='images/Flow_HOA_frame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FLOW-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching](/files/Flow_HOA_final.pdf)
+
+**Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
+
+*Flow-HOA formulates HOA FIR filter design as a generative joint optimization problem, using conditional flow matching to refine a physics-informed prior under a composite perceptual objective spanning waveform, spectral, energy, and spatial fidelity. On a real sparse smartphone array, it surpasses the analytical ASM baseline in both objective signal/spatial metrics and subjective sound quality, showing that learned filter synthesis can reduce artifacts while preserving spatial accuracy.*
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAES 2026</div><img src='images/JAES_SHBAE_methods_comparison.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
