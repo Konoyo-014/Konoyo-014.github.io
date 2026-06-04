@@ -34,7 +34,7 @@ If your interests align with these directions, I would be very glad to connect a
 
 
 # 🔥 News
-- *2026.06*: &nbsp;📄 Author versions of "Flow-HOA" and "SHB-AE" submitted to arXiv; public identifiers pending announcement.
+- *2026.06*: &nbsp;📄 Author versions of "Flow-HOA" and "SHB-AE" are now available on arXiv as [2606.04570](https://arxiv.org/abs/2606.04570) and [2606.04584](https://arxiv.org/abs/2606.04584).
 - *2026.03*: &nbsp;🎉🎉 Paper "Flow-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching" accepted to AES Convention Europe 2026!
 - *2026.03*: &nbsp;🎉🎉 Paper "Spherical Harmonic Beamforming based Ambisonics Encoding Method in Frequency and Time Domain" accepted to the *Journal of the Audio Engineering Society*!
 - *2025.03*: &nbsp;🎉🎉 Paper "SHB-AE: Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array" accepted to the 158th Audio Engineering Society Convention proceedings!
@@ -45,11 +45,11 @@ If your interests align with these directions, I would be very glad to connect a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES Europe 2026</div><img src='images/Flow_HOA_frame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Flow-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching](/files/Flow_HOA_AES_Europe_2026_author_version.pdf)
+[Flow-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching](https://arxiv.org/abs/2606.04570)
 
 **Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
 
-**arXiv:** submitted; public identifier pending. **Venue:** AES Europe 2026 Convention (AES 160th Convention).
+**arXiv:** [2606.04570](https://arxiv.org/abs/2606.04570). **Venue:** AES Europe 2026 Convention (AES 160th Convention). **Author version:** [PDF](/files/Flow_HOA_AES_Europe_2026_author_version.pdf).
 
 *Flow-HOA formulates HOA FIR filter design as a generative joint optimization problem, using conditional flow matching to refine a physics-informed prior under a composite perceptual objective spanning waveform, spectral, energy, and spatial fidelity. On a real sparse smartphone array, it surpasses the analytical ASM baseline in both objective signal/spatial metrics and subjective sound quality, showing that learned filter synthesis can reduce artifacts while preserving spatial accuracy.*
 
@@ -83,11 +83,11 @@ If your interests align with these directions, I would be very glad to connect a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES 2025</div><img src='images/SHBAE_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array](/files/SHB_AE_AES_Europe_2025_author_version.pdf)
+[Spherical harmonic beamforming based Ambisonics encoding and upscaling method for smartphone microphone array](https://arxiv.org/abs/2606.04584)
 
 **Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
 
-**arXiv:** submitted; public identifier pending. **Proceedings:** [AES e-Library](https://aes2.org/publications/elibrary-page/?id=22912).
+**arXiv:** [2606.04584](https://arxiv.org/abs/2606.04584). **Proceedings:** [AES e-Library](https://aes2.org/publications/elibrary-page/?id=22912). **Author version:** [PDF](/files/SHB_AE_AES_Europe_2025_author_version.pdf).
 
 *This earlier AES proceedings paper introduced the core SHB-AE idea: using spherical-harmonic beamforming to enable Ambisonics encoding and order upscaling with a sparse, irregular smartphone microphone array. It established the feasibility of the approach under noisy and reverberant conditions, laying the foundation for the later JAES extension with unified frequency- and time-domain formulations and fuller evaluations.*
 
