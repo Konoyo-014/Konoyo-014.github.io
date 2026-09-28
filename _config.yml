@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "You Yuhuan"
-description              : "Second-year Master Student in Peking University."
+title                    : "Yuhuan You"
+description              : "Third-year master's student at Peking University."
 repository               : "Konoyo-014/Konoyo-014.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "You Yuhuan"
+  name             : "Yuhuan You"
   avatar           : "images/avatar_y_DSC04525.jpg"
   bio              : "Peking University"
   location         : "Beijing, China"
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "yuhuan-you-75721b398"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-0874-138X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

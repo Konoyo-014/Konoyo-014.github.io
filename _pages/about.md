@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes spatial audio, auditory scene analysis and audio (including speech & music) generation.
-I am currently seeking Summer 2026 research internship opportunities and PhD opportunities starting in 2027.
+My research interests include spatial audio, auditory scene analysis, and audio generation across speech and music.
+I am currently seeking PhD opportunities starting in 2027.
 
 
 # 🔬 Research Focus
@@ -34,6 +34,8 @@ If your interests align with these directions, I would be very glad to connect a
 
 
 # 🔥 News
+- *2026.09*: &nbsp;📄 Our paper ["OmniEcho: Audio-Visual Spatial Understanding for Omni-Modal Embodied Agents"](https://arxiv.org/abs/2609.23407) is now available on arXiv.
+- *2026*: &nbsp;🎉🎉 ["The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models"](https://arxiv.org/abs/2601.02954) has been accepted to NeurIPS 2026!
 - *2026.06*: &nbsp;📄 Author versions of "Flow-HOA" and "SHB-AE" are now available on arXiv as [2606.04570](https://arxiv.org/abs/2606.04570) and [2606.04584](https://arxiv.org/abs/2606.04584).
 - *2026.03*: &nbsp;🎉🎉 Paper "Flow-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching" accepted to AES Convention Europe 2026!
 - *2026.03*: &nbsp;🎉🎉 Paper "Spherical Harmonic Beamforming based Ambisonics Encoding Method in Frequency and Time Domain" accepted to the *Journal of the Audio Engineering Society*!
@@ -41,6 +43,34 @@ If your interests align with these directions, I would be very glad to connect a
 - *2024.12*: &nbsp;🎉🎉 Paper "TA-V2A: Textually Assisted Video-to-Audio Generation" accepted to ICASSP 2025!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/OmniEcho_overview.png' alt="OmniEcho and OmniEchoBench overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniEcho: Audio-Visual Spatial Understanding for Omni-Modal Embodied Agents](https://arxiv.org/abs/2609.23407)
+
+Ruixun Liu, Yuxuan Wang, Jiacheng Xie, **Yuhuan You**, Donghua Cai, Junming Lin, Xiong-Hui Chen, Zhifang Guo, Yunfei Chu, Qize Yang, Xize Cheng, Jin Xu, Yiwu Zhong
+
+**arXiv:** [2609.23407](https://arxiv.org/abs/2609.23407).
+
+*OmniEchoBench covers six tasks: 2,972 question-answer pairs over 197 real-world spatial audio-visual scenes and 900 sound-guided navigation samples from 30 environments. OmniEcho adds a first-order Ambisonics spatial encoder to a pretrained omni-modal model while retaining its semantic audio pathway. The paper reports state-of-the-art results on spatial audio-visual perception. For navigation, the model performs close to traditional vision-language navigation.*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/WorldNotMono_framework.png' alt="TWNM framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models](https://arxiv.org/abs/2601.02954)
+
+**Yuhuan You**, Lai Wei, Xihong Wu, Tianshu Qu
+
+**Venue:** NeurIPS 2026 (accepted). **arXiv:** [2601.02954](https://arxiv.org/abs/2601.02954).
+
+*This work formulates a hierarchical audio scene analysis pipeline that extends large audio-language models from mono recognition to spatial reasoning in complex acoustic scenes. It contributes a scalable FOA simulation pipeline, a spatial-aware model design with progressive training, and a dedicated benchmark that jointly evaluates perception, relational integration, and reasoning.*
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AES Europe 2026</div><img src='images/Flow_HOA_frame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,18 +94,6 @@ If your interests align with these directions, I would be very glad to connect a
 **Yuhuan You**, Yufan Qian, Tianshu Qu, Bin Wang, Xueyang Lv
 
 *This paper generalizes SHB-AE into a unified signal-independent framework that reformulates Ambisonics encoding as beamforming and develops both a frequency-domain design with high-frequency compensation and a broadband time-domain FIR design. Compared with the earlier AES proceedings paper, this JAES version moves beyond the initial upscaling demonstration to provide a clearer FD/TD methodological split and substantially more comprehensive objective and subjective robustness evaluations on a real smartphone array.*
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/WorldNotMono_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models](https://arxiv.org/abs/2601.02954)
-
-**Yuhuan You**, Lai Wei, Xihong Wu, Tianshu Qu
-
-*This work formulates a hierarchical audio scene analysis pipeline that extends large audio-language models from mono recognition to spatial reasoning in complex acoustic scenes. It contributes a scalable FOA simulation pipeline, a spatial-aware model design with progressive training, and a dedicated benchmark that jointly evaluates perception, relational integration, and reasoning.*
 
 </div>
 </div>
