@@ -25,6 +25,8 @@ I am currently seeking PhD opportunities starting in 2027.
 
 - **Comprehensive machine hearing from spatial audio and auditory neuroscience.** I aim to unify spatial audio modeling with principles from auditory neuroscience so that models can jointly understand what is sounding, where it is located, and how multiple sound events are organized over time.
 
+- **Auditory memory in large audio-language models (LALMs).** I believe auditory memory in LALMs differs from memory in speech language models (SpeechLLMs) and text-based language models. These differences deserve deeper study and more careful consideration.
+
 - **Human-centered audio evaluation as feedback for audio machine learning.** I develop richer perceptual evaluation dimensions and convert human judgments of naturalness, immersion, intelligibility, and affective consistency into actionable training feedback for audio models.
 
 - **Quantifying human-likeness in speech and singing generation to make art creation scientifically accessible.** I study speech generation and singing synthesis through measurable factors of perceived human-likeness, with the goal of deconstructing seemingly intangible artistic creativity into controllable, reproducible, and accessible scientific practice.
@@ -35,7 +37,7 @@ If your interests align with these directions, I would be very glad to connect a
 
 # 🔥 News
 - *2026.09*: &nbsp;📄 Our paper ["OmniEcho: Audio-Visual Spatial Understanding for Omni-Modal Embodied Agents"](https://arxiv.org/abs/2609.23407) is now available on arXiv.
-- *2026*: &nbsp;🎉🎉 ["The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models"](https://arxiv.org/abs/2601.02954) has been accepted to NeurIPS 2026!
+- *2026.09*: &nbsp;🎉🎉 ["The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models"](https://arxiv.org/abs/2601.02954) has been accepted to NeurIPS 2026!
 - *2026.06*: &nbsp;📄 Author versions of "Flow-HOA" and "SHB-AE" are now available on arXiv as [2606.04570](https://arxiv.org/abs/2606.04570) and [2606.04584](https://arxiv.org/abs/2606.04584).
 - *2026.03*: &nbsp;🎉🎉 Paper "Flow-HOA: Generative Joint Optimization for Ambisonics Encoding via Flow Matching" accepted to AES Convention Europe 2026!
 - *2026.03*: &nbsp;🎉🎉 Paper "Spherical Harmonic Beamforming based Ambisonics Encoding Method in Frequency and Time Domain" accepted to the *Journal of the Audio Engineering Society*!
